@@ -5,7 +5,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 
 public class MainActivity extends AppCompatActivity {
-    //수정ㅇㅇㅇㅇㅇ
+    //수정ㅇㅇㅇㅇㅇㄴㅁㄻㄴㄹㄴ
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
